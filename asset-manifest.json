@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TempLITE/static/css/main.15205e79.chunk.css",
+    "main.js": "/TempLITE/static/js/main.b3c941e6.chunk.js",
+    "main.js.map": "/TempLITE/static/js/main.b3c941e6.chunk.js.map",
+    "runtime-main.js": "/TempLITE/static/js/runtime-main.287b7346.js",
+    "runtime-main.js.map": "/TempLITE/static/js/runtime-main.287b7346.js.map",
+    "static/css/2.5cb0ef23.chunk.css": "/TempLITE/static/css/2.5cb0ef23.chunk.css",
+    "static/js/2.8fa01f9f.chunk.js": "/TempLITE/static/js/2.8fa01f9f.chunk.js",
+    "static/js/2.8fa01f9f.chunk.js.map": "/TempLITE/static/js/2.8fa01f9f.chunk.js.map",
+    "index.html": "/TempLITE/index.html",
+    "precache-manifest.b9cc0b15b4f0a1251f93b969eea282b6.js": "/TempLITE/precache-manifest.b9cc0b15b4f0a1251f93b969eea282b6.js",
+    "service-worker.js": "/TempLITE/service-worker.js",
+    "static/css/2.5cb0ef23.chunk.css.map": "/TempLITE/static/css/2.5cb0ef23.chunk.css.map",
+    "static/css/main.15205e79.chunk.css.map": "/TempLITE/static/css/main.15205e79.chunk.css.map",
+    "static/js/2.8fa01f9f.chunk.js.LICENSE.txt": "/TempLITE/static/js/2.8fa01f9f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/TempLITE/static/media/Semibold.9b1cbed4.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.287b7346.js",
+    "static/css/2.5cb0ef23.chunk.css",
+    "static/js/2.8fa01f9f.chunk.js",
+    "static/css/main.15205e79.chunk.css",
+    "static/js/main.b3c941e6.chunk.js"
+  ]
+}
